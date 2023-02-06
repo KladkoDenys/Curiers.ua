@@ -1,0 +1,50 @@
+@import "nullStyle.scss";
+
+[class*="__container"] {
+  max-width: 1926px;
+  margin: 0 auto;
+  padding: 0 5px;
+}
+
+	body {
+		background: #111111;
+	}
+
+// -----------------------------Header-Part
+
+.header {
+  &__main-part {
+  }
+
+  &__container {
+    // font-family: Iskra;
+  }
+
+  &__login-part {
+    color: white
+  }
+
+  &__login-part-content {
+  }
+
+  &__login-part-content-track-package {
+  }
+
+  &__login-part-content-login {
+  }
+
+  &__login-part-content-languege {
+  }
+
+  &__login-part-content-languege-arrow-down {
+  }
+
+  &__menu-part {
+  }
+
+  &__info-part {
+  }
+
+  &__bottom-part {
+  }
+}
